@@ -49,7 +49,7 @@ export default function Page() {
             className="h-[200px]"
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
-          <h1 className="text-4xl my-4">Will you be my Date when I go back in Manila?</h1>
+          <h1 className="text-4xl my-4">Will you be my Date?</h1>
           <div>
             <button
               className={`bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded mr-4`}
